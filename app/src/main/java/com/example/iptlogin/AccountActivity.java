@@ -43,7 +43,7 @@ public class AccountActivity extends AppCompatActivity {
             }
         });
     }
-
+// do re mi fa so la ti doooooooooooooo di mo gana ang gitbash
     private void updateUserInfo() {
         FirebaseUser user = mAuth.getCurrentUser();
         if (user != null) {
